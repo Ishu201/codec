@@ -1,0 +1,40 @@
+.pagination{
+  padding-top:15px !important
+}
+
+.paginate_button{
+  padding: 5px;
+  background-color: #e6e6e6 !important;
+  /* border:1px solid #669999 !important; */
+  border-radius: 4%;
+  box-shadow: none !important;
+  margin:3px;
+  width:30px;
+  text-align:center !important
+}
+
+.paginate_button>a{
+  text-align:center !important
+}
+
+.next, .previous{
+  background-color: #669999 !important;
+  color: white !important;
+  border-radius: 0% !important;
+  padding:5px;
+  border:none !important;
+  width:auto !important
+}
+
+.next>a{
+  color: white !important;
+}
+
+.previous>a{
+  color: white !important;
+}
+
+
+.active{
+  font-weight: bold;
+}
